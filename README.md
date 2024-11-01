@@ -96,5 +96,3 @@ All dependencies are listed in `requirements.txt`.
 ### Using Video Analyzer
 1. Upload the interview video file (MP4, MPEG4 formats are supported).
 2. Wait for the tool to generate a summary and analysis of the interview content.
-
-```
