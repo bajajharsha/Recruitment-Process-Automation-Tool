@@ -36,8 +36,8 @@ All dependencies are listed in `requirements.txt`.
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/bajajharsha/Dhiwise-Task.git
+   cd FINAL-PROJECT
    ```
 
 2. **Set Up a Virtual Environment**
