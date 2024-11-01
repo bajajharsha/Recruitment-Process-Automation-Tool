@@ -16,14 +16,18 @@ This tool is developed to streamline the recruitment process by:
 Ensure you have **Python 3** installed. This project also requires the following libraries:
 
 - `streamlit`
-- `langchain`
-- `langchain-openai`
-- `langchain-google-genai`
-- `faiss-cpu`
-- `tiktoken`
+- `requests`
 - `python-dotenv`
-- `pdfminer`
-- `markdown`
+- `langserve`
+- `fastapi`
+- `uvicorn`
+- `sentence-transformers`
+- `langchain-pinecone`
+- `pinecone-notebooks`
+- `langchain_community`
+- `moviepy`
+- `assemblyai`
+- `google-generativeai`
 
 All dependencies are listed in `requirements.txt`.
 

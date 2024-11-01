@@ -7,10 +7,8 @@ uvicorn
 sentence-transformers
 langchain-pinecone 
 pinecone-notebooks
-jq
 chromadb
 langchain_community
-openai==0.28
 moviepy
 assemblyai
 google-generativeai
