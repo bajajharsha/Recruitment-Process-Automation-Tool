@@ -36,7 +36,7 @@ All dependencies are listed in `requirements.txt`.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/bajajharsha/Dhiwise-Task.git
+   git clone https://github.com/bajajharsha/Recruitment-Process-Automation-Tool.git
    cd FINAL-PROJECT
    ```
 
