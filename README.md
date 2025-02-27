@@ -1,7 +1,7 @@
 
 # Recruitment Process Automation Tool
 
-This project is part of the Dhiwise 2nd round selection process, designed to automate key aspects of the recruitment workflow by aligning resumes with job descriptions and analyzing interview content.
+This project is designed to automate key aspects of the recruitment workflow by aligning resumes with job descriptions and analyzing interview content.
 
 ## Project Overview
 
